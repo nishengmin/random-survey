@@ -10,5 +10,5 @@
 const urls = [
 	'https://docs.google.com/forms/d/1LpC56yv-WQGH6xrq-q3Oui8MeTTlOp6wWDvzaQoKZw0/edit',
 	'https://docs.google.com/forms/d/1x267H3AR4CcvsY260rmP12sNLAGXBTLG27AMnDMieDE/edit',
-	'https://gitlab.com/hms5232'
+	'https://www.closers.com.tw/home-page'
 ];
