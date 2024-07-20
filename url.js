@@ -8,7 +8,6 @@
 
 
 const urls = [
-	'https://docs.google.com/forms/d/1LpC56yv-WQGH6xrq-q3Oui8MeTTlOp6wWDvzaQoKZw0/edit',
-	'https://docs.google.com/forms/d/1x267H3AR4CcvsY260rmP12sNLAGXBTLG27AMnDMieDE/edit',
-	'https://gitlab.com/hms5232'
+	'https://docs.google.com/forms/d/1BCgnU59iNnkW4IjyPwsl3nGFuM9H4yckNjkMC662-6Y/edit',
+	'https://docs.google.com/forms/d/1AxQjivc1s_hyZv0GAGJSrligkPw9Ym7CGoHMPflq0J8/edit'
 ];
