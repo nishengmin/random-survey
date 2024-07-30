@@ -8,7 +8,8 @@
 
 
 const urls = [
-	'https://docs.google.com/forms/d/1LpC56yv-WQGH6xrq-q3Oui8MeTTlOp6wWDvzaQoKZw0/edit',
-	'https://docs.google.com/forms/d/1x267H3AR4CcvsY260rmP12sNLAGXBTLG27AMnDMieDE/edit',
-	'https://www.closers.com.tw/home-page'
+	'https://docs.google.com/forms/d/e/1FAIpQLSfBC7p23tMSiAQVFebm_AUvhF9WH7_jPfDsH8SErerc7YsWcw/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/e/1FAIpQLSdcg4d_BRTdrNaI33B9jNJEO3ixkCBpl6zieMjc5r_EH5nBTg/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/e/1FAIpQLSc00pLHBD6a6KkpPHB5K67RpPmiERowFCpnyj2KqXgkWrg2KQ/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/e/1FAIpQLSf1yrLcgUwx4DrmnzAj_gyB-Q_PEA5P7YCzBxjDAPfbj4rYvQ/viewform?usp=sf_link'
 ];
